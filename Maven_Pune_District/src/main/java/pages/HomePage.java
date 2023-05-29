@@ -47,6 +47,7 @@ public class HomePage {
 	public void openViewDigitallySigned712Page()
 	{
 		ViewDigitallySigned712Button.click();
+		//sandip
 	}
 	
 
